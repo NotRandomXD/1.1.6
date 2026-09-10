@@ -1,12 +1,13 @@
 public class NumbersRiddle
 {
     public static void main(String[] args){
+        
         int posInteger = 2;
         int negInteger = -2;
         int one = 1;
         int zero = 0;
         double posDouble = 2.2;
-        double negDouble = -2.2;
+        double negDouble = -2.8;
         /* initilizing variables
         */
        
@@ -27,9 +28,8 @@ public class NumbersRiddle
         System.out.println(calc3);
         double calc4 = calc3 - startNumber;
         System.out.println(calc4);
-        /* 
-        aarav worked on doubles and initilizing variables 
-        arnesh worked on calculating the variables
+        /* aarav worked on doubles and intializing variables and arnesh worked on calculating the variables
         */
+
     }
 }
